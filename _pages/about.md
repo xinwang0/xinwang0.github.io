@@ -44,6 +44,15 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 *International Conference on Machine Learning (ICML), 2026.*
 [[Code](https://github.com/TemporalSelfRewarding/TSR)]
 
+### [Complexity-Constraint Code Evaluation: A Benchmark for Time Complexity Compliance in LLM-Generated Code](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-5518-5)
+
+Li-Guo Chen, **Xin Wang** <span style="color: #b31b1b;">(Second Author)</span>,
+Jue-Yu Chen, Ren-Zhao Liang, Zheng-Ran Zeng, Yang-Ning Li, Ying-Hui Li,
+Yi-Dong Wang, Yi-Jiang Xu, Qing Gao, Shi-Kun Zhang.
+
+*Journal of Computer Science and Technology (JCST), 41(3): 910–923, 2026.*
+[[Code](https://github.com/wahaha12321/C3E)]
+
 ### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
 
 **Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
@@ -56,22 +65,6 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 GLM-4.5 Team, including **Xin Wang**.
 
 *Technical Report, 2025.*
-
-# 💻 Selected Projects
-
-### [C3E: Complexity-Constraint Code Evaluation](https://github.com/wahaha12321/C3E)
-
-C3E evaluates whether code language models can satisfy explicit time-complexity
-requirements while remaining functionally correct. It provides a reproducible
-evaluation pipeline and reports Accuracy@1, Complexity Pass Rate, and dual-compliance
-metrics.
-
-[→ View project and code](https://github.com/wahaha12321/C3E)
-
-### Open-source work
-
-More experiments, tools, and ongoing projects are available on my
-[GitHub profile](https://github.com/wahaha12321?tab=repositories).
 
 # 📬 Contact
 
