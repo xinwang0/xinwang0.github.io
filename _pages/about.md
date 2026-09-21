@@ -44,6 +44,13 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 *International Conference on Machine Learning (ICML), 2026.*
 [[Code](https://github.com/TemporalSelfRewarding/TSR)]
 
+### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
+
+**Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
+<span style="color: #b31b1b;">(First Author)</span>
+
+*Findings of the Association for Computational Linguistics: EMNLP, 2026.*
+
 ### [Complexity-Constraint Code Evaluation: A Benchmark for Time Complexity Compliance in LLM-Generated Code](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-5518-5)
 
 Li-Guo Chen, **Xin Wang** <span style="color: #b31b1b;">(Second Author)</span>,
@@ -52,13 +59,6 @@ Yi-Dong Wang, Yi-Jiang Xu, Qing Gao, Shi-Kun Zhang.
 
 *Journal of Computer Science and Technology (JCST), 41(3): 910–923, 2026.*
 [[Code](https://github.com/wahaha12321/C3E)]
-
-### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
-
-**Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
-<span style="color: #b31b1b;">(First Author)</span>
-
-*Findings of the Association for Computational Linguistics: EMNLP.*
 
 ### [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 
