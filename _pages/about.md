@@ -24,6 +24,25 @@ my current open-source work on [GitHub](https://github.com/wahaha12321).
 - **AI Agents and Developer Tools** — building systems that make complex workflows easier to execute and inspect.
 - **Reliable AI Systems** — emphasizing reproducibility, transparent evaluation, and real-world usefulness.
 
+# 📝 Publications
+
+<small>\* Equal contribution.</small>
+
+### [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](https://arxiv.org/abs/2508.06026)
+
+Yidong Wang<sup>*</sup>, <strong>Xin Wang<sup>*</sup></strong>, Cunxiang Wang, Junfeng Fang, Qiufeng Wang,
+Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
+
+*International Conference on Machine Learning (ICML), 2026.*
+[→ arXiv](https://arxiv.org/abs/2508.06026)
+
+### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
+
+**Xin Wang**, et al. <span style="color: #b31b1b;">(First Author)</span>
+
+*Findings of the Association for Computational Linguistics: EMNLP.*
+[→ OpenReview](https://openreview.net/forum?id=L3G9sayIOA)
+
 # 💻 Selected Projects
 
 ### [C3E: Complexity-Constraint Code Evaluation](https://github.com/wahaha12321/C3E)
