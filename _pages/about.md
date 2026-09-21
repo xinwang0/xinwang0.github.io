@@ -24,6 +24,14 @@ my current open-source work on [GitHub](https://github.com/wahaha12321).
 - **AI Agents and Developer Tools** — building systems that make complex workflows easier to execute and inspect.
 - **Reliable AI Systems** — emphasizing reproducibility, transparent evaluation, and real-world usefulness.
 
+# 💼 Industry Experience
+
+- **Microsoft Research Asia (MSRA)** — Research Intern
+  Contributed to Copilot for Excel.
+
+- **Zhipu AI** — Research Intern
+  Worked on the evaluation of GLM-4.5.
+
 # 📝 Publications
 
 <small>\* Equal contribution.</small>
@@ -38,10 +46,18 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 
 ### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
 
-**Xin Wang**, et al. <span style="color: #b31b1b;">(First Author)</span>
+**Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
+<span style="color: #b31b1b;">(First Author)</span>
 
 *Findings of the Association for Computational Linguistics: EMNLP.*
 [→ OpenReview](https://openreview.net/forum?id=L3G9sayIOA)
+
+### [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
+
+GLM-4.5 Team, including **Xin Wang**.
+
+*Technical Report, 2025.*
+[→ arXiv](https://arxiv.org/abs/2508.06471)
 
 # 💻 Selected Projects
 
