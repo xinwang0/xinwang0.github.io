@@ -20,17 +20,6 @@ generation.
 I enjoy turning research ideas into reproducible methods, tools, and benchmarks.
 You can find my open-source work on [GitHub](https://github.com/wahaha12321).
 
-# 🔬 Research Interests
-
-- **LLM Post-Training** — improving model capabilities through preference learning,
-  self-rewarding methods, reinforcement learning, and iterative self-improvement.
-- **AI Agents** — developing language-model agents with stronger reasoning, coding,
-  tool use, and the ability to complete complex tasks reliably.
-- **LLM Evaluation** — designing benchmarks and evaluation methods that reveal model
-  capabilities, constraint-following behavior, and failure modes.
-- **Reasoning and Code Intelligence** — studying how LLMs solve algorithmic and
-  coding problems while satisfying correctness and efficiency requirements.
-
 # 💼 Industry Experience
 
 - **Microsoft Research Asia (MSRA)** — Research Intern
@@ -72,6 +61,17 @@ Yi-Dong Wang, Yi-Jiang Xu, Qing Gao, Shi-Kun Zhang.
 GLM-4.5 Team, including **Xin Wang**.
 
 *Technical Report, 2025.*
+
+# 🔬 Research Interests
+
+- **LLM Post-Training** — improving model capabilities through preference learning,
+  self-rewarding methods, reinforcement learning, and iterative self-improvement.
+- **AI Agents** — developing language-model agents with stronger reasoning, coding,
+  tool use, and the ability to complete complex tasks reliably.
+- **LLM Evaluation** — designing benchmarks and evaluation methods that reveal model
+  capabilities, constraint-following behavior, and failure modes.
+- **Reasoning and Code Intelligence** — studying how LLMs solve algorithmic and
+  coding problems while satisfying correctness and efficiency requirements.
 
 # 📬 Contact
 
