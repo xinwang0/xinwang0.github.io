@@ -17,16 +17,28 @@ better learning methods and rigorous evaluation, with recent work spanning
 self-rewarding language models, preference learning, agentic reasoning, and code
 generation.
 
+I am currently a **Machine Learning Engineer** on the **DataHub team at Viridien**,
+where I work on bringing AI technologies into real-world production through
+AI agents and automated workflows.
+
 I enjoy turning research ideas into reproducible methods, tools, and benchmarks.
 You can find my open-source work on [GitHub](https://github.com/wahaha12321).
 
+# 🎓 Education
+
+- **Peking University** — M.S. in Software Engineering, 2023–2026
+
 # 💼 Industry Experience
 
-- **Microsoft Research Asia (MSRA)** — Research Intern
-  Contributed to Copilot for Excel.
+- **Viridien** — Machine Learning Engineer, DataHub Team
+  Applying AI technologies to real-world production, with a focus on AI agents
+  and automated workflows for industry applications.
 
 - **Zhipu AI** — Research Intern
   Worked on the evaluation of GLM-4.5.
+
+- **Microsoft Research Asia (MSRA)** — Research Intern
+  Contributed to Copilot for Excel.
 
 # 📝 Publications
 
@@ -75,7 +87,8 @@ GLM-4.5 Team, including **Xin Wang**.
 
 # 📬 Contact
 
-I am open to conversations about research, engineering, and collaboration. The best
-way to reach me for now is through [GitHub](https://github.com/wahaha12321).
+I am open to conversations about research, engineering, and collaboration. You can
+reach me at [wx2013831686@gmail.com](mailto:wx2013831686@gmail.com) or connect with
+me on [GitHub](https://github.com/wahaha12321).
 
 <small>This homepage is a living document and will be updated as new work becomes public.</small>
