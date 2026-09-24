@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xin Wang | 王馨"
-description              : "Xin Wang's personal homepage — AI systems, multimodal learning, and evaluation."
+description              : "Xin Wang's personal homepage — large language models, AI agents, post-training, and evaluation."
 repository               : "wahaha12321/wahaha12321.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xin Wang | 王馨"
   avatar           : "images/photo.jpg"
-  bio              : "AI Systems · Multimodal Learning · Evaluation"
+  bio              : "LLMs · AI Agents · Post-Training · Evaluation"
   location         :
   employer         :
   pubmed           : 

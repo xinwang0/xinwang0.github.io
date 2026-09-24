@@ -10,19 +10,26 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Hello! I am **Xin Wang (王馨)**. My work and interests center on building practical,
-measurable AI systems. I am particularly interested in multimodal understanding,
-document intelligence, large language model evaluation, and agentic software.
+Hello! I am **Xin Wang (王馨)**. My research focuses on **large language models
+(LLMs)**, with particular interests in **post-training**, **AI agents**, and
+**evaluation**. I aim to improve the capabilities and reliability of LLMs through
+better learning methods and rigorous evaluation, with recent work spanning
+self-rewarding language models, preference learning, agentic reasoning, and code
+generation.
 
-I enjoy turning research ideas into reproducible tools and benchmarks. You can find
-my current open-source work on [GitHub](https://github.com/wahaha12321).
+I enjoy turning research ideas into reproducible methods, tools, and benchmarks.
+You can find my open-source work on [GitHub](https://github.com/wahaha12321).
 
 # 🔬 Research Interests
 
-- **Multimodal AI and Document Intelligence** — understanding structured and visually rich documents.
-- **Large Language Model Evaluation** — measuring correctness, constraint following, and reliability.
-- **AI Agents and Developer Tools** — building systems that make complex workflows easier to execute and inspect.
-- **Reliable AI Systems** — emphasizing reproducibility, transparent evaluation, and real-world usefulness.
+- **LLM Post-Training** — improving model capabilities through preference learning,
+  self-rewarding methods, reinforcement learning, and iterative self-improvement.
+- **AI Agents** — developing language-model agents with stronger reasoning, coding,
+  tool use, and the ability to complete complex tasks reliably.
+- **LLM Evaluation** — designing benchmarks and evaluation methods that reveal model
+  capabilities, constraint-following behavior, and failure modes.
+- **Reasoning and Code Intelligence** — studying how LLMs solve algorithmic and
+  coding problems while satisfying correctness and efficiency requirements.
 
 # 💼 Industry Experience
 
