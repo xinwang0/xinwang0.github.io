@@ -59,6 +59,12 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 
 *Findings of the Association for Computational Linguistics: EMNLP, 2026.*
 
+### [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
+
+GLM-4.5 Team, including **Xin Wang**.
+
+*Technical Report, 2025.*
+
 ### [Complexity-Constraint Code Evaluation: A Benchmark for Time Complexity Compliance in LLM-Generated Code](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-025-5518-5)
 
 Li-Guo Chen, **Xin Wang** <span style="color: #b31b1b;">(Second Author)</span>,
@@ -67,12 +73,6 @@ Yi-Dong Wang, Yi-Jiang Xu, Qing Gao, Shi-Kun Zhang.
 
 *Journal of Computer Science and Technology (JCST), 41(3): 910–923, 2026.*
 [[Code](https://github.com/xinwang0/C3E)]
-
-### [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
-
-GLM-4.5 Team, including **Xin Wang**.
-
-*Technical Report, 2025.*
 
 # 🔬 Research Interests
 
@@ -90,5 +90,3 @@ GLM-4.5 Team, including **Xin Wang**.
 I am open to conversations about research, engineering, and collaboration. You can
 reach me at [wx2013831686@gmail.com](mailto:wx2013831686@gmail.com) or connect with
 me on [GitHub](https://github.com/xinwang0).
-
-<small>This homepage is a living document and will be updated as new work becomes public.</small>
