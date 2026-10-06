@@ -22,7 +22,7 @@ where I work on bringing AI technologies into real-world production through
 AI agents and automated workflows.
 
 I enjoy turning research ideas into reproducible methods, tools, and benchmarks.
-You can find my open-source work on [GitHub](https://github.com/xinwang0).
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=o_dZAqgAAAAJ) and my open-source work on [GitHub](https://github.com/xinwang0).
 
 # 🎓 Education
 
