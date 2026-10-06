@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Xin Wang | 王馨"
 description              : "Xin Wang's personal homepage — large language models, AI agents, post-training, and evaluation."
-repository               : "wahaha12321/wahaha12321.github.io"
+repository               : "xinwang0/xinwang0.github.io"
+url                      : "https://xinwang0.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : wahaha12321
+  github           : xinwang0
   google_plus      :
   keybase          :
   instagram        :

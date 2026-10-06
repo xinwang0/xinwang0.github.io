@@ -22,7 +22,7 @@ where I work on bringing AI technologies into real-world production through
 AI agents and automated workflows.
 
 I enjoy turning research ideas into reproducible methods, tools, and benchmarks.
-You can find my open-source work on [GitHub](https://github.com/wahaha12321).
+You can find my open-source work on [GitHub](https://github.com/xinwang0).
 
 # 🎓 Education
 
@@ -66,7 +66,7 @@ Jue-Yu Chen, Ren-Zhao Liang, Zheng-Ran Zeng, Yang-Ning Li, Ying-Hui Li,
 Yi-Dong Wang, Yi-Jiang Xu, Qing Gao, Shi-Kun Zhang.
 
 *Journal of Computer Science and Technology (JCST), 41(3): 910–923, 2026.*
-[[Code](https://github.com/wahaha12321/C3E)]
+[[Code](https://github.com/xinwang0/C3E)]
 
 ### [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471)
 
@@ -89,6 +89,6 @@ GLM-4.5 Team, including **Xin Wang**.
 
 I am open to conversations about research, engineering, and collaboration. You can
 reach me at [wx2013831686@gmail.com](mailto:wx2013831686@gmail.com) or connect with
-me on [GitHub](https://github.com/wahaha12321).
+me on [GitHub](https://github.com/xinwang0).
 
 <small>This homepage is a living document and will be updated as new work becomes public.</small>
