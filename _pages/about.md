@@ -44,7 +44,7 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 
 <small>\* Equal contribution.</small>
 
-### [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](https://arxiv.org/abs/2508.06026)
+### [Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future](https://proceedings.mlr.press/v306/wang26ik.html)
 
 Yidong Wang<sup>*</sup>, <strong>Xin Wang<sup>*</sup></strong> <span style="color: #b31b1b;">(Co-first Author)</span>, Cunxiang Wang, Junfeng Fang, Qiufeng Wang,
 Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
@@ -52,7 +52,7 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 *International Conference on Machine Learning (ICML), 2026.*
 [[Code](https://github.com/TemporalSelfRewarding/TSR)]
 
-### [RewardPartial](https://aclanthology.org/2026.findings-emnlp.488/)
+### [RewardPartial: A Completion Potential Evaluation Framework for Truncated Best-of-N Paradigm](https://aclanthology.org/2026.findings-emnlp.488/)
 
 **Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
 <span style="color: #b31b1b;">(First Author)</span>
