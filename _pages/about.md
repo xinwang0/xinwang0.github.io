@@ -52,7 +52,7 @@ Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 *International Conference on Machine Learning (ICML), 2026.*
 [[Code](https://github.com/TemporalSelfRewarding/TSR)]
 
-### [RewardPartial](https://openreview.net/forum?id=L3G9sayIOA)
+### [RewardPartial](https://aclanthology.org/2026.findings-emnlp.488/)
 
 **Xin Wang**, Yidong Wang, Qiufeng Wang, Bo Jia, Yilin Niu, Jie Tang, Cunxiang Wang.
 <span style="color: #b31b1b;">(First Author)</span>
